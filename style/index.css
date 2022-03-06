@@ -23,7 +23,7 @@ main {
 .nav-content {
     flex-direction: row;
     justify-content: space-between;
-    font-family: 'Roboto';
+    font-family: 'Roboto, sans serif';
 }
    
 ul {
